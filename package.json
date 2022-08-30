@@ -1,0 +1,11 @@
+{
+  "name": "com.varneon.repository-template-unity-upm",
+  "displayName": "Repository Template - Unity UPM",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Template repository for UPM",
+  "author": {
+    "name": "Varneon",
+    "url": "https://github.com/Varneon"
+  }
+}
